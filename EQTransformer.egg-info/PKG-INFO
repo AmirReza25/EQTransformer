@@ -8,7 +8,7 @@ Author-email: smousavi05@gmail.com
 License: MIT
 Keywords: Seismology,Earthquakes Detection,P&S Picking,Deep Learning,Attention Mechanism
 Platform: UNKNOWN
-Requires-Python: ==3.10.5
+Requires-Python: ==3.9.10
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
