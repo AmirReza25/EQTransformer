@@ -33,7 +33,8 @@ setup(
 	'obspy==1.3.0',
 	'jupyter==1.0.0'], 
 
-    python_requires='==3.10.5',
+    #python_requires='==3.10.5',
+	python_requires='==3.9.10',
 )
 
 
